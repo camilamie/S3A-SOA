@@ -1,11 +1,12 @@
 # S³A — Sondas Sísmicas Autônomas
 
-## Grupo
-Camila Mie Takara RM555418
-Guilherme Barbiero RM555185
-Marco Antônio Gonçalves RM556818
-Vinicius Castro RM556137
-Matheus Cantiere RM558479
+## Integrantes
+
+- Camila Mie Takara - RM555418
+- Guilherme Barbiero - RM555185
+- Marco Antonio Gonçalves - RM556818
+- Matheus Cantiere - RM558479
+- Vinicius Castro - RM556137
 
 ## Motivação
 
